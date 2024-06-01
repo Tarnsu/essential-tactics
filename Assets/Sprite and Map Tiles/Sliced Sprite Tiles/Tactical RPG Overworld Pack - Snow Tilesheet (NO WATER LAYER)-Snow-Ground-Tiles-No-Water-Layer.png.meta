@@ -1,0 +1,2780 @@
+fileFormatVersion: 2
+guid: 521864ceef57e6f4482300630225846a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2381b7d9d25d843459c2bb27e43228b4
+      internalID: 158921688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8182f8db353354ca12bcc588707450
+      internalID: -853111362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c71f7f3635756a408841b0b78bf29e5
+      internalID: 1756814613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0453fac8307598e4da7ec0aaf1a94ed4
+      internalID: 1763352029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc311600d71d5c247a92ec37d307e52c
+      internalID: -1079977872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c24b7e2fc653f49a7dd9a8583ca17a
+      internalID: 1408714598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da41e814ed2122046ad241bca8337839
+      internalID: 2106285091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212cf1ed9f8f63943ba042fb087a85bc
+      internalID: 504933492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11edd4a8a1e79e94cae8381015117bd1
+      internalID: 1087921306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4640f1fa60ab4c749ac9e1621f94247f
+      internalID: -1316258282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d0b2b2647bf694cb019d4b05e0b818
+      internalID: 1983374402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f251c217b18b4354ea93b52a5a1ae0e9
+      internalID: -2030848485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f64f0efb856d3d43a9d8995e8397001
+      internalID: -267398317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a9f97817256054cbd13298726c5148
+      internalID: -1776688025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_14
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb90ad5c0f10ba40933a9bf87ebe3d0
+      internalID: 70572706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc5d0b60483215438fe8e7a9333baf3
+      internalID: 1240467127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_16
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e91ef815cde7248b4388880648a1c9
+      internalID: 1603945551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a479b920771fd445b5613d81642edcb
+      internalID: 142887781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbfdf1244a857f489302983abf1758d
+      internalID: -471233317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab358c851fa063345bee1eda0ca495d0
+      internalID: -672330070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd13b1b54e8c5141bd083ec2ad9e44f
+      internalID: -902002224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5271357d803eef648a5a22007e1b4dcc
+      internalID: -981727170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797e92da01118d945b4ea06494ea3874
+      internalID: -1442662901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b58f3cf47160649831f736630e4091
+      internalID: 1916977640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d122b07831905a74e802e39ba6e2a4c1
+      internalID: -67609066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdac2b6ee85a9e4a88898a7ec413267
+      internalID: 1940898672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaaebb0eedc7d2545928f1a94e1eae36
+      internalID: 1774417085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a1c98a7f51474448beb9b1f66fd0bc
+      internalID: -948339337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dc59d5af1895047bd84decf456aca5
+      internalID: 1732840938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97eabd12ac1d9434992fed927bd4a15b
+      internalID: -1663112251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_30
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e734a1f2a7f6994b87d8d098bceca79
+      internalID: -806310088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ce5e511cd8b5244b644cbdbaa20284
+      internalID: 672964041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cea9cfe440329243aea65844bbf282b
+      internalID: -1446003168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a522c8151ba784884a639f0a77ca53
+      internalID: 423704854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_34
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803a2ada17a88af43bfb9852c445ccf8
+      internalID: -563646798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e743b39cb9907af4ebd047f86a3a090a
+      internalID: 798326429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_36
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef718c4a54c1ff4a8c174ce6efb5099
+      internalID: -2036360827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_37
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0329ceee918fce47a13d0ddfa56f9ea
+      internalID: 2016442572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_38
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e71c446c2654f649977486c660dceab
+      internalID: 1630046058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ca7ef99fe986d498ba8ff76860e3ae
+      internalID: -1522124132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6866fb0c7795047bafa83b81fa4f19
+      internalID: 229508476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a949f7a8eaad243936f625749bf627
+      internalID: 633745568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fee43b4f1572674194dc369adc91a56
+      internalID: -1827632437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04611e8712ce78643832176a84344aa4
+      internalID: 1914748510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0728a270b8540754185ab0b9874876d9
+      internalID: -155214434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228ae509ed27b4c499d4e8f586493b3c
+      internalID: 759501505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec70cdaf10a90747b374c797b800b16
+      internalID: -1006712159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219e7e5e3ffaf6242b50145ca876168a
+      internalID: 188605185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3091274b496501e49ace167adf04163a
+      internalID: 1761647707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_49
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b6baa91a8c9404381c57ac3cf1c91a
+      internalID: -1476617337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_50
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621370bdb2cc8764797e8f490d40ca1d
+      internalID: -1178908210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_51
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d1d647e8ad17847ab6b5b606bce6c2
+      internalID: -1003831541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3eace2409eb5d49ac6098d8b6fb0a0
+      internalID: 222058434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_53
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed820c7a2693aa448012af857cd1770
+      internalID: 1788219376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_54
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8aae05d0c70624bbf0226d85084e77
+      internalID: -1188537116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d35a00f8e0d29469804ad42b7fdc32
+      internalID: -1208399437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_56
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9918d20abeddc4e8800f3e951aead9
+      internalID: 982713833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_57
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bc20ad690e4384d8a133384a7e3dac
+      internalID: 1880217720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_58
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea1c0f1c55b867469c9c8100695fc72
+      internalID: 386083960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_59
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac72b4655e5853f4a9f40c5dce9dc159
+      internalID: 1255300993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_60
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a53b07ab956aab45b6aa72a877de9b5
+      internalID: 1803578530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b84096a4b46bf4e8e197d86c68bac4
+      internalID: -638914296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_62
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d29804509d45c4cb521ccd0e27a5e5
+      internalID: 318509862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_63
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a07a2354230804ea4f3e1aab5188a6
+      internalID: -2000132135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_64
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872e9a781754bf64a8839043c4a5acc5
+      internalID: -756050913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10adc44339ff2b478146d73b6f055bf
+      internalID: -889710576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_66
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbb54c428858054983c9f673527b08a
+      internalID: 1982118060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_67
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2e1d82e51d3a440a8fbe35b05b1cc8
+      internalID: -2099999300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_68
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75bc9152c0b2774c8a101d1ff7d5044
+      internalID: 766153288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_69
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7639829e974a4a44cae10eaf5d4e1d4a
+      internalID: 1743968811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2330394cd2a8f14cb1c056c37109075
+      internalID: 2087902492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15c9e13047644245af269906803b280
+      internalID: -676042644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cd16d5e8b103b4a969aaf1a9c1d1a1
+      internalID: 1708770070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6871ed2868ec424fb3194137ee514c9
+      internalID: 46432371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f39b8fc5c9fdb41ab1ac5b63690542
+      internalID: 1378709008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_75
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f8fee1afbeab34bb80dbf859f9b217
+      internalID: -826626092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb11575b96172345926229e38d6f667
+      internalID: 1473208231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_77
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd0714197ab71b4aa404e98f9bf0e11
+      internalID: 1272240935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_78
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeeab34eea74f5f4987d9bfca2959ddd
+      internalID: -461928453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_79
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273b07fe80dcfd34eb06f8a73d2168cc
+      internalID: -1065974841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_80
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1157b4d5bb5ec43a83471440cda3ad
+      internalID: 1220708954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_81
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df0a50b7dfe1774998c84d961531e7d
+      internalID: -592665856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_82
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e89426e8e2b38e4ebcc9ba18004df9a
+      internalID: -933077930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_83
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc452940c55dac4ab8f0651c41caa0a
+      internalID: 917471330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d871a4f7c82e3c4aaaf4e82182e0293
+      internalID: 1648005288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7210eb334cca2ba45a03cbd1577e65c9
+      internalID: -54793493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6a113622fbc8b488821a3f88048da4
+      internalID: -2031741645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf109d0ef19216499627282ef245ebd
+      internalID: 1774621647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88dc0de3f3fbba43ab5d972fd0ed06a
+      internalID: -1157439643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fc06918e9fee84e93ea48f53d7307d
+      internalID: 1560223839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_90
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd51f5df58498ab4b8f817d6bc4b37d4
+      internalID: -383517491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_91
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e0107680f5f414abcc37ef4d7b731c
+      internalID: -932057332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cba7ca127b55e94ca8301d1b496745c
+      internalID: -1109769947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_93
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d22e9d64e2619644b724b18e68b31ca
+      internalID: 1772512618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_94
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b13607b62a4f3428140c55c4bbe954
+      internalID: -2081296076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_95
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c537b1b87a46b14f96c927870d59eeb
+      internalID: 859800294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_96
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cf72d84898df94fbb75a8cfa113bbe
+      internalID: 1019211144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_97
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6653891b84b8cf42905ed734d033ac2
+      internalID: -1730605233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_98
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b3e0769e3983649b8f5fe8bc9ad587
+      internalID: 641191786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d72e572354d168499c9ce87468bbc03
+      internalID: 302248063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4ca9ea78c6de04581b9a8959ed48cd
+      internalID: 465526780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_101
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342cd427f2a50a846a453065093d1274
+      internalID: -714704218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_102
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1885ec787787f48ad272c2de0354e2
+      internalID: 679465044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_103
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b76ee57cbd6bba4ea990ce5f563fb8d
+      internalID: 511589464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_104
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f871f5d588ac9c64ca7e59d3de49474d
+      internalID: 636576234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c52f2e1813feb43924059a35eb74d1
+      internalID: 1846310208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_106
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2d3c190a8ebdb48ba03a477b622a54
+      internalID: -1047150227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_107
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf75fd025757af347b27b0b53c9c77ac
+      internalID: -1568912462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_108
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4c0a7c037e96c4996182067f77b726
+      internalID: -191271238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_109
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9bbcdf7cd250f4d9c52332075e39b7
+      internalID: 1321460483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_110
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f36e13cd1bbde74ebd30c17ffe30bd3
+      internalID: -377370848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4edc65fbb58804798b987b4b31a9d5
+      internalID: -429289229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75f4ccbc011f35439f8a72bbbb7646f
+      internalID: 430363023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce439a7deec8ec4998500c4ad120434
+      internalID: 697669371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97911513cc73b444282b6dafcefde6e4
+      internalID: -1155430905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b2dd81ce5029045baa0caa1ca5eff9
+      internalID: -1805318792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e88d26c863e27c4abfe830b8e51d210
+      internalID: -714119465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f019169470044474ebfd994aea386c96
+      internalID: -1336418068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_118
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e5cee819cc03747a9090ea1cbb975d
+      internalID: -1835652569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_119
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d21300482bb22438322658857b6158
+      internalID: -1922455009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_0: 158921688
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_1: -853111362
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_10: 1983374402
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_100: 465526780
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_101: -714704218
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_102: 679465044
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_103: 511589464
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_104: 636576234
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_105: 1846310208
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_106: -1047150227
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_107: -1568912462
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_108: -191271238
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_109: 1321460483
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_11: -2030848485
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_110: -377370848
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_111: -429289229
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_112: 430363023
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_113: 697669371
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_114: -1155430905
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_115: -1805318792
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_116: -714119465
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_117: -1336418068
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_118: -1835652569
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_119: -1922455009
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_12: -267398317
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_13: -1776688025
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_14: 70572706
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_15: 1240467127
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_16: 1603945551
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_17: 142887781
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_18: -471233317
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_19: -672330070
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_2: 1756814613
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_20: -902002224
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_21: -981727170
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_22: -1442662901
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_23: 1916977640
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_24: -67609066
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_25: 1940898672
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_26: 1774417085
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_27: -948339337
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_28: 1732840938
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_29: -1663112251
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_3: 1763352029
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_30: -806310088
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_31: 672964041
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_32: -1446003168
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_33: 423704854
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_34: -563646798
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_35: 798326429
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_36: -2036360827
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_37: 2016442572
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_38: 1630046058
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_39: -1522124132
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_4: -1079977872
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_40: 229508476
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_41: 633745568
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_42: -1827632437
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_43: 1914748510
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_44: -155214434
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_45: 759501505
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_46: -1006712159
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_47: 188605185
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_48: 1761647707
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_49: -1476617337
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_5: 1408714598
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_50: -1178908210
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_51: -1003831541
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_52: 222058434
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_53: 1788219376
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_54: -1188537116
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_55: -1208399437
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_56: 982713833
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_57: 1880217720
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_58: 386083960
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_59: 1255300993
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_6: 2106285091
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_60: 1803578530
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_61: -638914296
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_62: 318509862
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_63: -2000132135
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_64: -756050913
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_65: -889710576
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_66: 1982118060
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_67: -2099999300
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_68: 766153288
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_69: 1743968811
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_7: 504933492
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_70: 2087902492
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_71: -676042644
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_72: 1708770070
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_73: 46432371
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_74: 1378709008
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_75: -826626092
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_76: 1473208231
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_77: 1272240935
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_78: -461928453
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_79: -1065974841
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_8: 1087921306
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_80: 1220708954
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_81: -592665856
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_82: -933077930
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_83: 917471330
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_84: 1648005288
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_85: -54793493
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_86: -2031741645
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_87: 1774621647
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_88: -1157439643
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_89: 1560223839
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_9: -1316258282
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_90: -383517491
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_91: -932057332
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_92: -1109769947
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_93: 1772512618
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_94: -2081296076
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_95: 859800294
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_96: 1019211144
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_97: -1730605233
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_98: 641191786
+      Tactical RPG Overworld Pack - Snow Tilesheet (NO WATER LAYER)-Snow-Ground-Tiles-No-Water-Layer_99: 302248063
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
