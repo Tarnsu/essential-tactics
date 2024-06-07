@@ -827,6 +827,177 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f9c6860175c7ef344aa8bf04117b9a78, type: 3}
+--- !u!1001 &1726782538997317729
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 735854904998216474, guid: 9ef98a282c90cd244bb2a521c1e9bd4a, type: 3}
+      propertyPath: m_Name
+      value: Yellow Villager Idle Left
+      objectReference: {fileID: 0}
+    - target: {fileID: 823736035227106763, guid: 9ef98a282c90cd244bb2a521c1e9bd4a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.848481
+      objectReference: {fileID: 0}
+    - target: {fileID: 823736035227106763, guid: 9ef98a282c90cd244bb2a521c1e9bd4a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.2632709
+      objectReference: {fileID: 0}
+    - target: {fileID: 823736035227106763, guid: 9ef98a282c90cd244bb2a521c1e9bd4a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 823736035227106763, guid: 9ef98a282c90cd244bb2a521c1e9bd4a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 823736035227106763, guid: 9ef98a282c90cd244bb2a521c1e9bd4a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 823736035227106763, guid: 9ef98a282c90cd244bb2a521c1e9bd4a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 823736035227106763, guid: 9ef98a282c90cd244bb2a521c1e9bd4a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 823736035227106763, guid: 9ef98a282c90cd244bb2a521c1e9bd4a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 823736035227106763, guid: 9ef98a282c90cd244bb2a521c1e9bd4a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 823736035227106763, guid: 9ef98a282c90cd244bb2a521c1e9bd4a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9ef98a282c90cd244bb2a521c1e9bd4a, type: 3}
+--- !u!1001 &1797465364477767435
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 7376836556049214979, guid: 6b3e0059eeac18545aa059548981f30c, type: 3}
+      propertyPath: m_Name
+      value: Yellow Villager Idle Down
+      objectReference: {fileID: 0}
+    - target: {fileID: 7926951337783664962, guid: 6b3e0059eeac18545aa059548981f30c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.4429893
+      objectReference: {fileID: 0}
+    - target: {fileID: 7926951337783664962, guid: 6b3e0059eeac18545aa059548981f30c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.037665
+      objectReference: {fileID: 0}
+    - target: {fileID: 7926951337783664962, guid: 6b3e0059eeac18545aa059548981f30c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7926951337783664962, guid: 6b3e0059eeac18545aa059548981f30c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7926951337783664962, guid: 6b3e0059eeac18545aa059548981f30c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7926951337783664962, guid: 6b3e0059eeac18545aa059548981f30c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7926951337783664962, guid: 6b3e0059eeac18545aa059548981f30c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7926951337783664962, guid: 6b3e0059eeac18545aa059548981f30c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7926951337783664962, guid: 6b3e0059eeac18545aa059548981f30c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7926951337783664962, guid: 6b3e0059eeac18545aa059548981f30c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6b3e0059eeac18545aa059548981f30c, type: 3}
+--- !u!1001 &1910094046145246163
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 7538880934385055715, guid: f3db8260c95c559428ab87c40697e83b, type: 3}
+      propertyPath: m_Name
+      value: Yellow Villager Move Left
+      objectReference: {fileID: 0}
+    - target: {fileID: 7734807989641930160, guid: f3db8260c95c559428ab87c40697e83b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.1420536
+      objectReference: {fileID: 0}
+    - target: {fileID: 7734807989641930160, guid: f3db8260c95c559428ab87c40697e83b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.4834723
+      objectReference: {fileID: 0}
+    - target: {fileID: 7734807989641930160, guid: f3db8260c95c559428ab87c40697e83b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7734807989641930160, guid: f3db8260c95c559428ab87c40697e83b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7734807989641930160, guid: f3db8260c95c559428ab87c40697e83b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7734807989641930160, guid: f3db8260c95c559428ab87c40697e83b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7734807989641930160, guid: f3db8260c95c559428ab87c40697e83b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7734807989641930160, guid: f3db8260c95c559428ab87c40697e83b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7734807989641930160, guid: f3db8260c95c559428ab87c40697e83b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7734807989641930160, guid: f3db8260c95c559428ab87c40697e83b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f3db8260c95c559428ab87c40697e83b, type: 3}
 --- !u!1001 &2164057652535935446
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -941,6 +1112,120 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 268077265cc5429478fd806b07ba3ca8, type: 3}
+--- !u!1001 &3467117235467310442
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5128008340284692320, guid: 0e6d0082736f5c640b2417ae32a4c854, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.94385505
+      objectReference: {fileID: 0}
+    - target: {fileID: 5128008340284692320, guid: 0e6d0082736f5c640b2417ae32a4c854, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.6963099
+      objectReference: {fileID: 0}
+    - target: {fileID: 5128008340284692320, guid: 0e6d0082736f5c640b2417ae32a4c854, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5128008340284692320, guid: 0e6d0082736f5c640b2417ae32a4c854, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5128008340284692320, guid: 0e6d0082736f5c640b2417ae32a4c854, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5128008340284692320, guid: 0e6d0082736f5c640b2417ae32a4c854, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5128008340284692320, guid: 0e6d0082736f5c640b2417ae32a4c854, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5128008340284692320, guid: 0e6d0082736f5c640b2417ae32a4c854, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5128008340284692320, guid: 0e6d0082736f5c640b2417ae32a4c854, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5128008340284692320, guid: 0e6d0082736f5c640b2417ae32a4c854, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5987048853303231566, guid: 0e6d0082736f5c640b2417ae32a4c854, type: 3}
+      propertyPath: m_Name
+      value: Yellow Villager Move Right
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0e6d0082736f5c640b2417ae32a4c854, type: 3}
+--- !u!1001 &4309950049380981555
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 25550777991729556, guid: d77026ec62dc2c547bf1a6f2f264e962, type: 3}
+      propertyPath: m_Name
+      value: Yellow Villager Move Down
+      objectReference: {fileID: 0}
+    - target: {fileID: 3323799947074935493, guid: d77026ec62dc2c547bf1a6f2f264e962, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.556728
+      objectReference: {fileID: 0}
+    - target: {fileID: 3323799947074935493, guid: d77026ec62dc2c547bf1a6f2f264e962, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.07985115
+      objectReference: {fileID: 0}
+    - target: {fileID: 3323799947074935493, guid: d77026ec62dc2c547bf1a6f2f264e962, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3323799947074935493, guid: d77026ec62dc2c547bf1a6f2f264e962, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3323799947074935493, guid: d77026ec62dc2c547bf1a6f2f264e962, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3323799947074935493, guid: d77026ec62dc2c547bf1a6f2f264e962, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3323799947074935493, guid: d77026ec62dc2c547bf1a6f2f264e962, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3323799947074935493, guid: d77026ec62dc2c547bf1a6f2f264e962, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3323799947074935493, guid: d77026ec62dc2c547bf1a6f2f264e962, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3323799947074935493, guid: d77026ec62dc2c547bf1a6f2f264e962, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d77026ec62dc2c547bf1a6f2f264e962, type: 3}
 --- !u!1001 &4653536032096952722
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -998,6 +1283,63 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c7ff8c2c4f55f514792c934f0de43f61, type: 3}
+--- !u!1001 &5550560602612152926
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2995693261886763776, guid: 8295769f62be318419a8f2f3541e99ee, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.1952412
+      objectReference: {fileID: 0}
+    - target: {fileID: 2995693261886763776, guid: 8295769f62be318419a8f2f3541e99ee, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.4725229
+      objectReference: {fileID: 0}
+    - target: {fileID: 2995693261886763776, guid: 8295769f62be318419a8f2f3541e99ee, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2995693261886763776, guid: 8295769f62be318419a8f2f3541e99ee, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2995693261886763776, guid: 8295769f62be318419a8f2f3541e99ee, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2995693261886763776, guid: 8295769f62be318419a8f2f3541e99ee, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2995693261886763776, guid: 8295769f62be318419a8f2f3541e99ee, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2995693261886763776, guid: 8295769f62be318419a8f2f3541e99ee, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2995693261886763776, guid: 8295769f62be318419a8f2f3541e99ee, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2995693261886763776, guid: 8295769f62be318419a8f2f3541e99ee, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6996881174145504615, guid: 8295769f62be318419a8f2f3541e99ee, type: 3}
+      propertyPath: m_Name
+      value: Yellow Villager Idle Right
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8295769f62be318419a8f2f3541e99ee, type: 3}
 --- !u!1001 &5888629327219117900
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1169,6 +1511,63 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c97e6e440bfa61b40aa5435e0b4f64d1, type: 3}
+--- !u!1001 &6984371601033088513
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 781011686047523130, guid: 6492c6131b9d4794182acbdba76b9727, type: 3}
+      propertyPath: m_Name
+      value: Yellow Villager Move Up
+      objectReference: {fileID: 0}
+    - target: {fileID: 2011799533392268094, guid: 6492c6131b9d4794182acbdba76b9727, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.9273973
+      objectReference: {fileID: 0}
+    - target: {fileID: 2011799533392268094, guid: 6492c6131b9d4794182acbdba76b9727, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.2210848
+      objectReference: {fileID: 0}
+    - target: {fileID: 2011799533392268094, guid: 6492c6131b9d4794182acbdba76b9727, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2011799533392268094, guid: 6492c6131b9d4794182acbdba76b9727, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2011799533392268094, guid: 6492c6131b9d4794182acbdba76b9727, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2011799533392268094, guid: 6492c6131b9d4794182acbdba76b9727, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2011799533392268094, guid: 6492c6131b9d4794182acbdba76b9727, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2011799533392268094, guid: 6492c6131b9d4794182acbdba76b9727, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2011799533392268094, guid: 6492c6131b9d4794182acbdba76b9727, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2011799533392268094, guid: 6492c6131b9d4794182acbdba76b9727, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6492c6131b9d4794182acbdba76b9727, type: 3}
 --- !u!1001 &7418514747925952406
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1226,6 +1625,63 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: db653edf9612c834da4b0f6a5f7151a1, type: 3}
+--- !u!1001 &7658942441025447946
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1904803782587482061, guid: bbf19502997c55a4b991bf1bbf09c092, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6.2723374
+      objectReference: {fileID: 0}
+    - target: {fileID: 1904803782587482061, guid: bbf19502997c55a4b991bf1bbf09c092, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.6835418
+      objectReference: {fileID: 0}
+    - target: {fileID: 1904803782587482061, guid: bbf19502997c55a4b991bf1bbf09c092, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1904803782587482061, guid: bbf19502997c55a4b991bf1bbf09c092, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1904803782587482061, guid: bbf19502997c55a4b991bf1bbf09c092, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1904803782587482061, guid: bbf19502997c55a4b991bf1bbf09c092, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1904803782587482061, guid: bbf19502997c55a4b991bf1bbf09c092, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1904803782587482061, guid: bbf19502997c55a4b991bf1bbf09c092, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1904803782587482061, guid: bbf19502997c55a4b991bf1bbf09c092, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1904803782587482061, guid: bbf19502997c55a4b991bf1bbf09c092, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8318648680569884131, guid: bbf19502997c55a4b991bf1bbf09c092, type: 3}
+      propertyPath: m_Name
+      value: Yellow Villager Idle Up
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bbf19502997c55a4b991bf1bbf09c092, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -1240,3 +1696,11 @@ SceneRoots:
   - {fileID: 5888629327219117900}
   - {fileID: 2164057652535935446}
   - {fileID: 1586047947576396397}
+  - {fileID: 1797465364477767435}
+  - {fileID: 1726782538997317729}
+  - {fileID: 5550560602612152926}
+  - {fileID: 7658942441025447946}
+  - {fileID: 4309950049380981555}
+  - {fileID: 3467117235467310442}
+  - {fileID: 1910094046145246163}
+  - {fileID: 6984371601033088513}
