@@ -10,9 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
-  m_Name: New Animated Tile
+  m_Name: Snow NW 1,6
   m_EditorClassIdentifier: 
-  m_AnimatedSprites: []
+  m_AnimatedSprites:
+  - {fileID: -845261629, guid: 48af8589a08527348bcfcadbe2c9e0fd, type: 3}
+  - {fileID: -1100830502, guid: 48af8589a08527348bcfcadbe2c9e0fd, type: 3}
+  - {fileID: -301136961, guid: 48af8589a08527348bcfcadbe2c9e0fd, type: 3}
+  - {fileID: -548685027, guid: 48af8589a08527348bcfcadbe2c9e0fd, type: 3}
+  - {fileID: -579750955, guid: 48af8589a08527348bcfcadbe2c9e0fd, type: 3}
+  - {fileID: 1085608531, guid: 48af8589a08527348bcfcadbe2c9e0fd, type: 3}
   m_MinSpeed: 1
   m_MaxSpeed: 1
   m_AnimationStartTime: 0
